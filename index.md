@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Prohonor的个人空间
 
-You can use the [editor on GitHub](https://github.com/Aislandz/cn/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 最近的音乐
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+May.2在Outertone发行新的EDM House"City Night"
 
-### Markdown
+[近期在World RCRDS发行的Electro House](https://music.163.com/#/song?id=1942321872)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### ProhonorSounds免费编曲素材包
 
-```markdown
-Syntax highlighted code block
+承诺为音乐制作人提供更好的编曲资源。
 
-# Header 1
-## Header 2
-### Header 3
+[ProhonorSounds网站](https://progressive-tune.github.io/ProhonorSounds)
 
-- Bulleted
-- List
+### Progressive Tune发行平台
 
-1. Numbered
-2. List
+厂牌收录House、Trance音乐。
 
-**Bold** and _Italic_ and `Code` text
+[Progressive Tune网站](https://progressive-tune.github.io/ptr)
 
-[Link](url) and ![Image](src)
-```
+## 编曲栏目
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### 本周内容：音乐中噪声的使用
+都知道给音乐加个白噪，但最近发现了一些特殊的噪声使用技巧。
 
-### Jekyll Themes
+可以使用Sylenth1 噪声来代替白噪，有一种特殊的感觉:)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Aislandz/cn/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+可以给噪声加BitCrush，这样塑造一种“脆”的噪声。
 
-### Support or Contact
+或者试试用噪声丰富一下鼓组？叠在Snare上会有不错的作用。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+甚至你可以把小打侧链到噪声上进行反向侧链压缩，来丰富小打。
+
+联系Prohonor：c78sc@outlook.com或prohonor-official@foxmail.com
