@@ -2,7 +2,7 @@
 
 ### 最近的音乐
 
-May.2在Outertone发行新的EDM House"City Night"
+[May.2在Outertone发行新的EDM House"City Night"](https://music.163.com/#/song?id=1944477493)
 
 [近期在World RCRDS发行的Electro House](https://music.163.com/#/song?id=1942321872)
 
@@ -20,7 +20,22 @@ May.2在Outertone发行新的EDM House"City Night"
 
 ## 编曲栏目
 
-### 本周内容：音乐中噪声的使用
+### 本周内容：FL的小细节
+
+你把采样直接听，跟FL采样器里不一样：Rack默认是78.125%响度
+
+VST放Live，跟FL里不一样：FL的默认响度比Live大3db
+
+把pan调到左或右，比中间大3db：让你听感上响度一样，具体函数就是个半圆
+
+别加那么多EQ：Mixer插槽自带一个EQ，可以高低切
+
+为什么说自带插件更好：你可以自由地设置滑音：你可以通过设置颜色让C1：1-3-5这个和弦滑到C2：2-4-7滑出花样。
+
+如果你把C1的1跟C2的7设置成一个颜色，那就会从1滑到7，而不是按照常理从1滑到2.
+
+### 之前的内容：音乐中噪声的使用
+
 都知道给音乐加个白噪，但最近发现了一些特殊的噪声使用技巧。
 
 可以使用Sylenth1 噪声来代替白噪，有一种特殊的感觉:)
