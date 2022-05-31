@@ -2,7 +2,7 @@
 
 ### 最近的音乐
 
-[May.2在Outertone发行新的EDM House"City Night"](https://music.163.com/#/song?id=1944477493)
+[在Outertone发行新的EDM House"Time Machine"](https://music.163.com/#/song?id=1951242634)
 
 [近期在World RCRDS发行的Electro House](https://music.163.com/#/song?id=1942321872)
 
@@ -19,8 +19,21 @@
 [Progressive Tune网站](https://progressive-tune.github.io/ptr)
 
 ## 编曲栏目
+### 本周内容：做一个Reese Bass
 
-### 本周内容：FL的小细节
+首先做一个基础的音色比如Detune Saw
+
+然后做出波动的效果：
+  
+  1.可以通过Unison，把Retrig打开
+  
+  2.用Flanger或者Phaser
+  
+  3.BandStop滤波器加LFO
+  
+最后简单使用EQ调整即可
+
+### 之前的内容：FL的小细节
 
 你把采样直接听，跟FL采样器里不一样：Rack默认是78.125%响度
 
